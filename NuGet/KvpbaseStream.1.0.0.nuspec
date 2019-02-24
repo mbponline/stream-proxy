@@ -7,6 +7,7 @@
     <authors>jchristn</authors>
     <owners>jchristn</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/kvpbase/stream-proxy/blob/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/kvpbase/stream-proxy</projectUrl>
     <description>Stream proxy for objects stored on Kvpbase for primary storage data access use cases, written in C#</description>
     <summary>Stream proxy for objects stored on Kvpbase for primary storage data access use cases, written in C#</summary>
