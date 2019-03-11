@@ -6,6 +6,8 @@ Kvpbase Storage Server is a RESTful object storage platform written in C# and av
 
 Using this stream proxy provides an interface enabling primary storage and data access use cases for objects stored on Kvpbase.
 
+With v1.0.1, KvpbaseStream now supports both .NET Core 2.0 and .NET Framework 4.6.2.
+
 ## Help and Feedback
 
 First things first - do you need help or have feedback?  Contact me at joel dot christner at gmail dot com or file an issue here. 
@@ -51,9 +53,9 @@ class Program
 }
 ```
  
-## New in v1.0.0
+## New in v1.0.1
 
-- Initial release
+- Retarget to support both .NET Core 2.0 and .NET Framework 4.6.2.
 
 ## Version History
 

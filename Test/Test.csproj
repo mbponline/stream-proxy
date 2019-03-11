@@ -61,7 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\KvpbaseStreamProxy\KvpbaseStreamProxy.csproj">
-      <Project>{bfe5ad68-b450-4e0d-b7e4-c0b365a9753a}</Project>
+      <Project>{29f683f2-1600-4305-8773-50c141a806b5}</Project>
       <Name>KvpbaseStreamProxy</Name>
     </ProjectReference>
   </ItemGroup>
